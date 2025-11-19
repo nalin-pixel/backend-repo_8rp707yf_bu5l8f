@@ -8,3 +8,9 @@ INFO:     172.20.0.1:53414 - "HEAD / HTTP/1.1" 405 Method Not Allowed
 INFO:     172.20.0.1:57364 - "OPTIONS /api/mine HTTP/1.1" 200 OK
 INFO:     172.20.0.1:57364 - "POST /api/mine HTTP/1.1" 200 OK
 INFO:     172.20.0.1:57374 - "POST /api/mine HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59718 - "POST /api/mine HTTP/1.1" 422 Unprocessable Content
+INFO:     172.20.0.1:59718 - "POST /api/mine HTTP/1.1" 422 Unprocessable Content
+INFO:     172.20.0.1:48724 - "POST /api/mine HTTP/1.1" 422 Unprocessable Content
+INFO:     172.20.0.1:45830 - "POST /api/mine HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36806 - "POST /api/mine HTTP/1.1" 200 OK
+INFO:     172.20.0.1:42132 - "POST /api/mine HTTP/1.1" 200 OK
